@@ -8,5 +8,6 @@
     "test-runner-jest.config.js",
     "vite.config.ts",
     "vitest.config.ts",
+    "tests/*.ts"
   ]
 }
